@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **JavaScript, reactJS, WordPress**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
 
 - 📫 How to reach me **akotodelight3@gmail.com**
 
