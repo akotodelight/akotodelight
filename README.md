@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Akoto Delight aka Dee🌸</h1>
 <h3 align="center">A lovely/passionate frontend developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **JavaScript, reactJS, WordPress**
+- 🌱 I’m currently learning **reactJS, WordPress**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **akotodelight3@gmail.com**
 
